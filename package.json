@@ -1,0 +1,8 @@
+{
+  "name": "pull-request-linter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dchang-koverse/pull-request-linter.git",
+  "author": "Dale Chang <dalechang@koverse.com>",
+  "license": "MIT"
+}
